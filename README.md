@@ -5,6 +5,7 @@ The user can view the dishes by category and their details. Foods can be added t
 Used:
 - React,
 - ReactNative,
+- ReactNavigation,
 - Expo.
 
 How to use? - After downloading the repository, open the folder in VisualStudioCode. Then enter in the console:
