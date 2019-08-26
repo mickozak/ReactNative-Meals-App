@@ -1,5 +1,7 @@
 # ReactNative-Meals App
 
+The user can view the dishes by category and their details. Foods can be added to favorites and filtered.
+
 Used:
 - React,
 - ReactNative,
