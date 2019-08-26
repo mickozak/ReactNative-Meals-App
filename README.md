@@ -1,4 +1,4 @@
-# ReactNative-Number App
+# ReactNative-Meals App
 
 Used:
 - React,
